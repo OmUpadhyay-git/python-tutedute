@@ -12,23 +12,6 @@ Other files:
 
 - `.gitignore` — standard Python ignore rules.
 
-## How to run
-
-1. Make sure you have Python 3 installed. You can check with:
-
-	```powershell
-	python --version
-	```
-
-2. Run a task script from the repository root (PowerShell example):
-
-	```powershell
-	Set-Location 'C:\VS Code\Coding\Python\tutedute\Assigement_1'
-	python .\task1.py
-	```
-
-	The script will prompt for two numbers and print the addition, subtraction, multiplication and division results.
-
 ## Notes
 
 - This repository is intended for learning and small exercises. Feel free to open issues or send pull requests to improve the examples.
