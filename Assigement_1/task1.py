@@ -4,7 +4,7 @@ input2 = int(input("Enter a second number: "))
 addition = input1 + input2
 subtraction = input1 - input2
 multiplication = input1 * input2
-division = input1 / input2
+division = input1 // input2
 
 
 print("Addition:", addition)  
