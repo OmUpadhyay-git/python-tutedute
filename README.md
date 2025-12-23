@@ -39,6 +39,5 @@ python Assignment_4/task2.py
 
 ## Notes
 
-- The folder names have been corrected from `Assigement_*` to `Assignment_*`.
 - These examples are intended for practice. Contributions to improve clarity or add tests are welcome.
 
