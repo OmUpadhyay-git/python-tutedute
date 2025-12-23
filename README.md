@@ -17,8 +17,8 @@ Small, self-contained Python exercises organized by assignment folders.
   - `task2.py` — for a positive number, prints square root, natural log, and sine; shows an error for non-positive input.
 
 - `Assignment_4/`
-  - `task1.py` — placeholder file.
-  - `task2.py` — placeholder file.
+  - `task1.py` — null file.
+  - `task2.py` — null file.
 
 ## Run Locally
 
